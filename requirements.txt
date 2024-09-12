@@ -1,0 +1,11 @@
+fastapi[standard]
+motor
+numpy
+pandas
+beanie
+langchain
+openai
+pinecone-client
+python-dotenv
+tiktoken
+langchain_nvidia_ai_endpoints
