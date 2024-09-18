@@ -1,12 +1,19 @@
 from motor.motor_asyncio import AsyncIOMotorClient
 from beanie import init_beanie
+from dotenv import load_dotenv
 
 from app.models import db_models as mdm
+from app.conf import config as cfg
+
+load_dotenv()
 
 async def init_db():
-    client = AsyncIOMotorClient("mongodb://localhost:27017")
+    db_name = cfg.app_settings['db_name']
+    mongo_uri = cfg.app_settings['mongo_uri']
+    db_client = AsyncIOMotorClient(mongo_uri)
+    db = db_client[db_name]
     await init_beanie(
-        database=client.skona, document_models=[mdm.GutHealthAssessment, 
+        database=db, document_models=[mdm.GutHealthAssessment, 
                                                 mdm.BoneHealthAssessment, 
                                                 mdm.DentalHealthAssessment, 
                                                 mdm.RegularHealthCareAssessment, 
@@ -14,19 +21,19 @@ async def init_db():
     
 
 # Get information based on request recieved.
-async def get_gut_health_info():
+async def get_gut_health_info(search_data):
     pass
 
-async def get_bone_health_info():
+async def get_bone_health_info(search_data):
     pass
 
-async def get_dental_health_info():
+async def get_dental_health_info(search_data):
     pass
 
-async def get_regular_health_info():
+async def get_regular_health_info(search_data):
     pass
 
-async def get_pet_info():
+async def get_pet_info(search_data):
     pass
 
 

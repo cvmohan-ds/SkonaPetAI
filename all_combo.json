@@ -1,0 +1,6626 @@
+[
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            true,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            true,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            true,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            false,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            true,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            true,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            true,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            false,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            true,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            true,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            true,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            false
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            false,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            false,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            true,
+            false
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            false,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            true,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            true,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            true,
+            false,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            false,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            false,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "dental_health": [
+            false,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "dental_health": [
+            true,
+            false
+        ]
+    },
+    {
+        "reg_helth": [
+            true,
+            true,
+            true
+        ],
+        "gut_health": [
+            true,
+            true,
+            true
+        ],
+        "bone_health": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "dental_health": [
+            true,
+            true
+        ]
+    }
+]

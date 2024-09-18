@@ -9,3 +9,4 @@ pinecone-client
 python-dotenv
 tiktoken
 langchain_nvidia_ai_endpoints
+psutil

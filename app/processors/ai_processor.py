@@ -1,7 +1,8 @@
+from app.models.models import SkonaAssessment
 
 class AIProcessor:
-    def __init__(self) -> None:
-        pass
+    def __init__(self, assessment_data: SkonaAssessment) -> None:
+        self.assessment_data = assessment_data
     
     def start_process(self):
         print("Processing Request Started")
