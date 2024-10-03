@@ -63,5 +63,66 @@
     "Final Assessment": "The dog is experiencing multiple health issues across various categories, including regular healthcare, gut health, bone health, and dental health. These issues require immediate veterinary attention and a comprehensive health management plan.",
     "Final Recommendations": "Schedule a comprehensive veterinary check-up to address all health concerns. Establish and adhere to a regular healthcare routine, including parasite control, dental care, and a balanced diet. Monitor the dog's behavior and health closely and seek veterinary advice promptly if any new issues arise."
   }
+
   
+  {
+    "Assessment": "You occasionally go more than 2-3 days without giving your dog dental chews. This may impact oral health despite generally good practices.",
+    "Recommendation": "Increase the frequency of providing dental chews. Schedule regular professional dental check-ups to maintain optimal oral health."
+  },
+  {
+    "Assessment": "Infrequent use of dental chews may lead to dental issues over time, even if overall dental care is adequate.",
+    "Recommendation": "Ensure daily provision of dental chews. Arrange for periodic professional dental cleanings."
+  },
+  {
+    "Assessment": "Irregular dental care routines, such as occasional lapses in providing dental chews, might affect your dog's oral health.",
+    "Recommendation": "Improve consistency with daily use of dental chews. Schedule regular vet dental check-ups to monitor oral health."
+  },
+  {
+    "Assessment": "Skipping dental chews for more than 2-3 days can lead to plaque buildup and potential dental issues.",
+    "Recommendation": "Provide dental chews daily to prevent plaque buildup. Regular vet check-ups are recommended."
+  },
+  {
+    "Assessment": "Lack of regular dental chews can contribute to bad breath and gum disease over time.",
+    "Recommendation": "Incorporate daily dental chews into your dog's routine. Regular dental check-ups are essential."
+  },
+  {
+    "Assessment": "Inconsistent dental care, such as not providing dental chews regularly, may result in tartar accumulation.",
+    "Recommendation": "Ensure daily dental chews to reduce tartar buildup. Schedule professional dental cleanings periodically."
+  },
+  {
+    "Assessment": "Occasional lapses in providing dental chews can affect your dog's overall dental hygiene.",
+    "Recommendation": "Maintain a consistent routine with daily dental chews. Regular vet visits for dental check-ups are advised."
+  },
+  {
+    "Assessment": "Not giving dental chews regularly can lead to dental problems like gingivitis.",
+    "Recommendation": "Provide dental chews daily to prevent gingivitis. Regular dental check-ups are important."
+  },
+  {
+    "Assessment": "Irregular use of dental chews may cause dental health to deteriorate over time.",
+    "Recommendation": "Incorporate daily dental chews into your dog's routine. Schedule regular professional dental cleanings."
+  },
+  {
+    "Assessment": "Skipping dental chews for several days can lead to dental issues despite good brushing habits.",
+    "Recommendation": "Ensure daily dental chews to complement brushing. Regular vet dental check-ups are recommended."
+  },
+  {
+    "Assessment": "Infrequent dental chews can result in plaque and tartar buildup, affecting oral health.",
+    "Recommendation": "Provide dental chews daily to prevent plaque and tartar. Schedule regular dental cleanings."
+  },
+  {
+    "Assessment": "Lack of regular dental chews may contribute to dental diseases over time.",
+    "Recommendation": "Ensure daily dental chews to maintain oral health. Regular vet check-ups are essential."
+  },
+  {
+    "Assessment": "Inconsistent provision of dental chews can lead to bad breath and dental issues.",
+    "Recommendation": "Incorporate daily dental chews into your dog's routine. Regular dental check-ups are advised."
+  },
+  {
+    "Assessment": "Skipping dental chews for more than 2-3 days can negatively impact your dog's dental health.",
+    "Recommendation": "Provide dental chews daily to maintain dental health. Schedule regular professional dental cleanings."
+  },
+  {
+    "Assessment": "Irregular dental care, such as not providing dental chews regularly, may result in dental problems.",
+    "Recommendation": "Ensure daily dental chews to prevent dental issues. Regular vet dental check-ups are important."
+  }
   

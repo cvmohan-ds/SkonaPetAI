@@ -1,5 +1,4 @@
 from pydantic import BaseModel, Field, computed_field
-import db_models as dbms
 
 # Request Information Models
 class BasicInfo(BaseModel):
@@ -50,11 +49,15 @@ class SkonaAssessment(BaseModel):
     name: str
     welcome_title: str
     welcome_message: str
-    pet_info: dbms.PetInfo
-    general_assessment: dbms.RegularHealthCareAssessment
-    gut_health_assessment: dbms.GutHealthAssessment
-    bone_health_assessment: dbms.BoneHealthAssessment
-    dental_health_assessment: dbms.DentalHealthAssessment
+    note: str
+    bmi: float
+    bmi_assessment: dict
+    general_assessment: dict
+    gut_health_assessment: dict
+    bone_health_assessment: dict
+    dental_health_assessment: dict
+    final_assessment: dict
+    nutritional_recommendation: dict
     
     
 

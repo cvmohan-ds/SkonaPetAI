@@ -1,5 +1,6 @@
 from langchain_nvidia_ai_endpoints import ChatNVIDIA
-from prompts import Prompts
+from app.processors import ai_processor
+import logging
 
 class Orchestrater:
     
@@ -7,21 +8,36 @@ class Orchestrater:
         pass
     
     
-def get_started():
+async def get_started(prompts):
+    logging.info(f"Number of prompts recieved: {len(prompts)}")
+    print(f"Number of prompts recieved: {len(prompts)}")
+    print(prompts.keys())
     client = ChatNVIDIA(
-        model="meta/llama-3.1-8b-instruct",
-        api_key="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",
+        model="nvidia/nemotron-4-340b-instruct",
+        api_key="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", 
         temperature=0.2,
         top_p=0.7,
         max_tokens=1024
     )
-    data = """ """
-    skona_prompt = Prompts().zero_shot_prompts()
+    responses_dict = {}
+    for key, prompt in prompts.items():
+        data = """ """
 
-    for chunk in client.stream(skona_prompt): 
-        data += chunk
-    return data
+        for chunk in client.stream(prompt): 
+            data += chunk.content
+        # data_parts = data.split("{")[1].split(":")
+        # assessment = data_parts[1].split('"')[1].strip()
+        # reco = data_parts[2].split('"')[1].strip()
+        data_parts = data.split("\n")
+        for p in data_parts:
+            if '"Assessment":' in p:
+                assessment = p.split(":")[1].strip().strip('"')
+                print(assessment)
+            elif '"Recommendation":' in p:
+                reco = p.split(":")[1].strip().strip('"')
+                print(reco)
+        assess_reco_dict = {"Assessment": assessment, "Recommendation": reco}
+        responses_dict[key] = assess_reco_dict
+    return responses_dict
 
-
-print(get_started())
     

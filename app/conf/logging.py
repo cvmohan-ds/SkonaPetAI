@@ -41,5 +41,5 @@ def create_log_config(log_path: str) -> dict:
 
 
 def setup_logging():
-    log_config = create_log_config('app/conf/logging.yaml')
+    log_config = create_log_config('conf/logging.yaml')
     logging.config.dictConfig(log_config)
